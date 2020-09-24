@@ -20,9 +20,9 @@ For now the content is limited to a few movies that I like with some basic infos
 
 This is an exercise I started for my formation with [BeCode](https://becode.org/) to practice making a customized WordPress theme, but as I learned I had the idea to make a theme for my horror app concept.
 
-### Technos
+### Tech
 
-- WordPress
 - Docker
+- WordPress
 - HTML / PHP
 - CSS / Bootstrap

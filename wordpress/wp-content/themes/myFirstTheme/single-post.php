@@ -1,10 +1,10 @@
 <?php get_header() ?>
 
 <?php if (have_posts()) : ?>
-    <div class="row">
+    <section class="row">
         <?php while (have_posts()) : the_post(); ?>
 
-            <div class="card col-12 text-white bg-dark mb-3">
+            <article class="card col-12 text-white bg-dark mb-3">
                 <div class="row no-gutters">
                     <div class="col-4">
                         <?php the_post_thumbnail('post-thumbnail', ['class' => 'card-img mt-3', 'alt' => 'Movie Poster', 'style' => 'height: auto']); ?>
@@ -17,12 +17,12 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </article>
 
         <?php endwhile; ?>
-    </div>
+    </section>
 <?php else : ?>
-    <h1>Pas d'article</h1>
+    <h1>No article</h1>
 <?php endif; ?>
 
 <?php get_footer() ?>
