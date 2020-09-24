@@ -23,5 +23,6 @@ This is an exercise I started for my formation with [BeCode](https://becode.org/
 ### Technos
 
 - WordPress
+- Docker
 - HTML / PHP
 - CSS / Bootstrap
