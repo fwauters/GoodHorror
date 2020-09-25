@@ -26,4 +26,4 @@
         </nav>
     </header>
 
-    <main class="container">
+    <main class="container" style="margin:0; min-width:100%">
