@@ -12,8 +12,8 @@
                     </div>
                     <div class="col-7">
                         <div class="card-body">
-                            <h4 class="card-title mb-4" style="font-size:1.3rem"><?php the_title(); ?></h4>
-                            <h5 class="card-subtitle" style="font-size:1rem;"><?php the_category(); ?></h5>
+                            <h2 class="card-title mb-4" style="font-size:1.3rem"><?php the_title(); ?></h2>
+                            <h3 class="card-subtitle" style="font-size:1rem;"><?php the_category(); ?></h3>
                             <p class="card-text"><?php the_excerpt(); ?></p>
                             <a href="<?php the_permalink() ?>" class="btn btn-outline-light">See more</a>
                         </div>

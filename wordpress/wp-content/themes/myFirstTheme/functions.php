@@ -41,6 +41,7 @@ function myFirstTheme_linkClass($atts)
 
 add_action('after_setup_theme', 'myFirstTheme_supports');
 add_action('wp_enqueue_scripts', 'myFirstTheme_registerAssets');
+
 add_filter('document_title_separator', 'myFirstTheme_titleSeparator');
 add_filter('nav_menu_css_class', 'myFirstTheme_menuClass');
 add_filter('nav_menu_link_attributes', 'myFirstTheme_linkClass');
