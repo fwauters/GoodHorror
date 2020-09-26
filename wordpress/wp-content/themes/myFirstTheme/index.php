@@ -22,9 +22,15 @@
             </article>
 
         <?php endwhile; ?>
+
     </section>
+
+    <?= myFirstTheme_pagination() ?>
+
 <?php else : ?>
+
     <h1>No article</h1>
+
 <?php endif; ?>
 
 <?php get_footer() ?>

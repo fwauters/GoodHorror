@@ -6,9 +6,9 @@
 
 ## Concept
 
-Welcome in Good Horror ! This is a web app that index my favorite horror movies.
+Welcome in Good Horror ! This is a web app that index my favorite horror movies. :skull:
 
-I had this idea from an inside-joke, because horror films are not necessarily bad.
+I had this idea from an inside-joke, because I love horror films and some of my friends say that all thoses movies are bad. Hence my choice of slogan: "Because horror films are not necessarily bad". :grin:
 
 In time I may add reviews, recommendations and stuff like that but it's still a work in progress.
 
