@@ -4,7 +4,7 @@
 
 </footer>
 -->
-<footer class="footer bg-dark mt-2 py-2">
+<footer class="footer bg-dark mt-2 py-2 sticky-bottom">
     <div class="container">
         <div class="row">
             <div class="col-6" style="display:flex;justify-content:center;">

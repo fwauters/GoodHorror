@@ -1,8 +1,8 @@
 # Good Horror !
 
-:construction: **The project is in progress !**
+:construction: **This project is a work in progress !**
 
-:construction: **App not hosted yet !**
+You can check my advancement [here](http://fwauters.be/en/good-horror).
 
 ## Concept
 
