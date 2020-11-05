@@ -2,7 +2,7 @@
 
 :construction: **This project is a work in progress !** :construction:
 
-You can check my advancement on my website [@fwauters.be/en/good-horror](http://fwauters.be/en/good-horror).
+You can check my advancement on my website [@fwauters.be/en/good-horror](https://fwauters.be/en/good-horror).
 
 ## Concept
 
