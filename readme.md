@@ -1,8 +1,8 @@
 # Good Horror !
 
-:construction: **This project is a work in progress !**
+:construction: **This project is a work in progress !** :contruction:
 
-You can check my advancement on my website [@fwauters.be/en/good-horor](http://fwauters.be/en/good-horror).
+You can check my advancement on my website [@fwauters.be/en/good-horror](http://fwauters.be/en/good-horror).
 
 ## Concept
 
